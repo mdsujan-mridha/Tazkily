@@ -817,16 +817,14 @@ input:checked+.slider:before {
 ===================================================================
 */
 .founder_freelancer_area_section {
-    background: url('../images/founder.png') no-repeat scroll 0 0 / cover;
+    background: url('../images/MaskGroup.png') no-repeat scroll 0 0 / cover;
     padding: 100px 0px;
     position: relative;
     z-index: 9999;
+    height: max-content;
     
 }
-.bottom-wave{
-    margin-top: 150px;
-    margin-bottom: 0px;
-}
+
 
 .founder_left_content h2 {
     color: #fff;
