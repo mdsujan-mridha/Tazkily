@@ -823,7 +823,10 @@ input:checked+.slider:before {
     z-index: 9999;
     
 }
-
+.bottom-wave{
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
 
 .founder_left_content h2 {
     color: #fff;
