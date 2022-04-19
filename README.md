@@ -1,8 +1,8 @@
 # Tazkily_Website
 
-## Github Link:
+## Github Link: https://github.com/mdsujon-mridha/Tazkily.git
 
-## GitHub Live Link: 
+## GitHub Live Link: https://mdsujon-mridha.github.io/Tazkily/
 
 ## Netlify Live Link: https://tazkily.netlify.app/
 
